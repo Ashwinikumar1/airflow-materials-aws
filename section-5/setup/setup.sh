@@ -2,7 +2,7 @@
 
 MATERIALS=airflow-materials-aws
 # CHANGE marclamberti by your Git username!
-GIT_USERNAME=marclamberti
+GIT_USERNAME=ashwinikumar1
 
 # Create the cluster
 eksctl create cluster -f $MATERIALS/cluster.yml
